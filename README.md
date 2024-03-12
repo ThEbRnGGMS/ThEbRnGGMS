@@ -1,0 +1,2 @@
+- 👋 Je suis Théo Beranger
+- 🌱 J'apprend le python 

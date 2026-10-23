@@ -1,2 +1,2 @@
 - 👋 Je suis Théo Beranger
-- 🌱 J'apprend le python 
+- 🌱 BTS SIO option SISR
